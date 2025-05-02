@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on developing my skills which will help me to navigate the world of problem-solving.
+- 🔭 I’m currently developing my skills to navigate the world of problem-solving.
 - 🌱 I’m currently learning C and C++. 
 
 <!--
